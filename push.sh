@@ -1,4 +1,5 @@
 hugo
 git add .
 git commit -m '自动推送'
-git push
+git push git main
+
