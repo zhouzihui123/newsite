@@ -10,3 +10,7 @@ defaultMarkdownHandler = "goldmark"
 [markup.goldmark.renderer]
 unsafe = true
 
+canonifyurls = true
+
+hasCJKLanguage = true
+summaryLength = 30
