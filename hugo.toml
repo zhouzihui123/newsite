@@ -1,8 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-publishDir="docs"
 theme = 'ananke'
 title = '新闻合集'
+publishDir="docs"
 
 [markup]
 defaultMarkdownHandler = "goldmark"
